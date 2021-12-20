@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "defaultProvider": "filesystem",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "bootstrap@5.1.3",
+      "destination": "wwwroot/lib/bootstrap/",
+      "files": [
+        "css/bootstrap.rtl.min.css",
+        "css/bootstrap.rtl.min.css.map",
+        "js/bootstrap.min.js",
+        "js/bootstrap.min.js.map"
+      ]
+    },
+    {
+      "provider": "cdnjs",
+      "library": "bootstrap-icons@1.7.2",
+      "destination": "wwwroot/lib/bootstrap-icons/",
+      "files": [
+        "font/bootstrap-icons.min.css",
+        "font/fonts/bootstrap-icons.woff",
+        "font/fonts/bootstrap-icons.woff2"
+      ]
+    },
+    {
+      "provider": "cdnjs",
+      "library": "jquery@3.6.0",
+      "destination": "wwwroot/lib/jquery/",
+      "files": [
+        "jquery.min.js",
+        "jquery.min.map"
+      ]
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "jquery-validation@1.19.3",
+      "destination": "wwwroot/lib/jquery-validation/",
+      "files": [
+        "LICENSE.md",
+        "dist/additional-methods.min.js",
+        "dist/jquery.validate.min.js",
+        "dist/localization/messages_fa.min.js"
+      ]
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "jquery-validation-unobtrusive@3.2.12",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive/",
+      "files": [
+        "LICENSE.txt",
+        "dist/jquery.validate.unobtrusive.min.js"
+      ]
+    },
+    {
+      "provider": "cdnjs",
+      "library": "vazir-font@30.1.0",
+      "destination": "wwwroot/lib/vazir-font/",
+      "files": [
+        "font-face.min.css",
+        "Vazir-Bold.eot",
+        "Vazir-Bold.ttf",
+        "Vazir-Bold.woff",
+        "Vazir-Bold.woff2",
+        "Vazir-Light.eot",
+        "Vazir-Light.ttf",
+        "Vazir-Light.woff",
+        "Vazir-Light.woff2",
+        "Vazir-Medium.eot",
+        "Vazir-Medium.ttf",
+        "Vazir-Medium.woff",
+        "Vazir-Medium.woff2",
+        "Vazir-Regular.eot",
+        "Vazir-Regular.ttf",
+        "Vazir-Regular.woff",
+        "Vazir-Regular.woff2"
+      ]
+    }
+  ]
+}
