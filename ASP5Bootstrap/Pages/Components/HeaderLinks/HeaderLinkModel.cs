@@ -1,4 +1,4 @@
-﻿namespace IVC_WebApp.Pages.Models
+﻿namespace IVC_WebApp.Pages.Components
 {
     public class HeaderLinkModel
     {
