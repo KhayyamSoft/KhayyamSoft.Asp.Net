@@ -2,7 +2,7 @@
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace ASPMVC5FaBootstrapBoilerplate
+namespace X.WebUI
 {
 	public class MvcApplication : System.Web.HttpApplication
 	{
