@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace ASPMVC5FaBootstrapBoilerplate
+namespace X.WebUI
 {
 	public class RouteConfig
 	{

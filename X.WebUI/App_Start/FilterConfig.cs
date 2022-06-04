@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace ASPMVC5FaBootstrapBoilerplate
+namespace X.WebUI
 {
 	public class FilterConfig
 	{

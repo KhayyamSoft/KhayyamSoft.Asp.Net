@@ -1,6 +1,6 @@
 ﻿using System.Web.Optimization;
 
-namespace ASPMVC5FaBootstrapBoilerplate
+namespace X.WebUI
 {
 	public class BundleConfig
 	{
