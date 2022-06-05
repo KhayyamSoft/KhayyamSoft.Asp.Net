@@ -50,7 +50,7 @@
       <Project>{06474218-6ebd-4adc-aa59-072e7be9a1da}</Project>
       <Name>X.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\X.Web\X.Web.csproj">
+    <ProjectReference Include="..\..\src\X.WebUI\X.WebUI.csproj">
       <Project>{0ab2dd0b-4758-457d-b6b7-63533f879a3b}</Project>
       <Name>X.Web</Name>
     </ProjectReference>

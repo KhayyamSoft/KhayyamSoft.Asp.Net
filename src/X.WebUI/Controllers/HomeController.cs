@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace Web.Controllers
+namespace X.WebUI.Controllers
 {
 	public class HomeController : Controller
 	{

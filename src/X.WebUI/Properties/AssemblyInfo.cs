@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ASPMVC5FaBootstrapBoilerplate")]
+[assembly: AssemblyTitle("X.WebUI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ASPMVC5FaBootstrapBoilerplate")]
+[assembly: AssemblyProduct("X.WebUI")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ecf1dc6f-3ee4-4570-af24-07318b1373e2")]
+[assembly: Guid("fa2380af-5a13-4d53-8f30-6e168bef8c8b")]
 
 // Version information for an assembly consists of the following four values:
 //

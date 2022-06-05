@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace X.Web
+namespace X.WebUI
 {
 	public class FilterConfig
 	{
