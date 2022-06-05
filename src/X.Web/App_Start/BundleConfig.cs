@@ -1,6 +1,6 @@
 ﻿using System.Web.Optimization;
 
-namespace X.WebUI
+namespace X.Web
 {
 	public class BundleConfig
 	{
