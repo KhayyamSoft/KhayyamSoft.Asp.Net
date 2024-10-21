@@ -1,0 +1,11 @@
+﻿@using IVC_WebApp.Pages.Components
+
+@{
+    var headerLinks = new List<HeaderLinkModel>()
+    {
+        new HeaderLinkModel{Url="/Index",Title="خانه"},
+        new HeaderLinkModel{Url="/Link1",Title="لینک 1"}
+    };
+}
+
+@await Component.InvokeAsync("HeaderLinks", headerLinks)
